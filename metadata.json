@@ -1,0 +1,7 @@
+{
+  "name": "Chef-karigar Staff Agency",
+  "description": "A comprehensive staffing platform for the hospitality industry connecting businesses, specialized staff (Karigars), and agency administration with unique retention and payroll logic.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
